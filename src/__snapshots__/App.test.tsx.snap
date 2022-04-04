@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <header
+      class="header"
+    >
+      React memo game
+    </header>
+    <main>
+      <div>
+        <p
+          data-testid="counter"
+        >
+          Count: 0
+        </p>
+        <div>
+          <button
+            data-testid="increment"
+          >
+            +
+          </button>
+          <button
+            data-testid="decrement"
+            disabled=""
+          >
+            -
+          </button>
+        </div>
+      </div>
+    </main>
+  </div>
+</DocumentFragment>
+`;
